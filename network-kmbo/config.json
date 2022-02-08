@@ -8,8 +8,8 @@
     "text": "Alexandra Wong"
   },
   "text": {
-    "more": "Testing export edit",
-    "intro": "Testing editing export",
+    "more": "Testing export edit 2",
+    "intro": "Testing editing export 2",
     "title": "Knowledge Mobilization Network Graph - KMbOs"
   },
   "legend": {
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "straight",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 2,
+      "maxEdgeSize": 10,
+      "minEdgeSize": 4,
       "minNodeSize": 5,
       "maxNodeSize": 35
     },
