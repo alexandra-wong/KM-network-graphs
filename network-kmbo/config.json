@@ -8,8 +8,8 @@
     "text": "Alexandra Wong"
   },
   "text": {
-    "more": "Testing export for the first time",
-    "intro": "Testing export",
+    "more": "Testing export edit",
+    "intro": "Testing editing export",
     "title": "Knowledge Mobilization Network Graph - KMbOs"
   },
   "legend": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
-      "minEdgeSize": 4,
-      "minNodeSize": 10,
-      "maxNodeSize": 70
+      "maxEdgeSize": 5,
+      "minEdgeSize": 2,
+      "minNodeSize": 5,
+      "maxNodeSize": 35
     },
     "mouseProperties": {
       "maxRatio": 20,
