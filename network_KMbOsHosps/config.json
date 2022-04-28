@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Force Atlas layout, KMbOs and Hospitals",
+    "intro": "Showcasing KMbOs and Hospitals and their linkages",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "People associated with both KMbOs and Hospitals",
+    "colorLabel": "Green KMbOs and Orange Hospitals",
+    "nodeLabel": "KMbOs and Hospitals"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "category",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 5,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 15
+    },
+    "graphProperties": {
+      "maxEdgeSize": 50,
+      "minEdgeSize": 5,
+      "minNodeSize": 5,
+      "maxNodeSize": 50
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
