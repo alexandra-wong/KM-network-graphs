@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "Force Atlas layout, just KMbOs",
+    "more": "Force Atlas layout, KMbOs",
     "intro": "Showcasing KMbOs and their linkages",
     "title": ""
   },
   "legend": {
-    "edgeLabel": "People associated with both KMbOs",
-    "colorLabel": "Green KMbOs",
+    "edgeLabel": "People associated with two KMbOs",
+    "colorLabel": "Blue KMbOs",
     "nodeLabel": "KMbOs"
   },
   "features": {
