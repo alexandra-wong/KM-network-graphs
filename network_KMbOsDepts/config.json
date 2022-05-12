@@ -9,12 +9,12 @@
   },
   "text": {
     "more": "Force Atlas layout, KMbOs and Departments",
-    "intro": "Showcasing KMbOs and Departments and their linkages",
+    "intro": "Showcasing KMbOs and Departmnts and their linkages",
     "title": ""
   },
   "legend": {
-    "edgeLabel": "People associated with both KMbOs and Departments",
-    "colorLabel": "Green KMbOs and Blue Departments",
+    "edgeLabel": "People associated with two KMbOs or KMbOs and Departments",
+    "colorLabel": "Blue KMbOs and light purple departments and dark purple faculties",
     "nodeLabel": "KMbOs and Departments"
   },
   "features": {
@@ -33,16 +33,16 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 8,
+      "labelThreshold": 5,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 25
     },
     "graphProperties": {
-      "maxEdgeSize": 75,
-      "minEdgeSize": 10,
-      "minNodeSize": 3,
+      "maxEdgeSize": 50,
+      "minEdgeSize": 8,
+      "minNodeSize": 8,
       "maxNodeSize": 50
     },
     "mouseProperties": {
