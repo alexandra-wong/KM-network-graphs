@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Force Atlas layout, KMbOs",
+    "intro": "Showcasing KMbOs and their linkages",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "People associated with two KMbOs",
+    "colorLabel": "Blue KMbOs",
+    "nodeLabel": "KMbOs"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "category",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 5,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 25
+    },
+    "graphProperties": {
+      "maxEdgeSize": 50,
+      "minEdgeSize": 8,
+      "minNodeSize": 8,
+      "maxNodeSize": 50
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
